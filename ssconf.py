@@ -13,13 +13,13 @@ import shutil
 
 
 #Your SS IP or Domain here
-server = '127.0.0.1'
+server = '64.71.141.140'
 #Your SS port
-port = '8388'
+port = '5737'
 #Your SS method
-method = 'aes-256-cfb'
+method = 'aes-128-cfb'
 #Your SS password
-passwd = '1233211234567'
+passwd = 'xkzsrrznufyajoet'
 
 
 # the url of gfwlist
